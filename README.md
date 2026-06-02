@@ -25,11 +25,11 @@
 
 ```mermaid
 flowchart LR
-    U(["👤 User"])
-    T["💻 Specter Terminal"]
-    L["🧠 Ollama Local LLM"]
-    S["🔒 Sandbox Executor"]
-    K["⚙️ Security Tools"]
+    U[👤 User]
+    T[💻 Specter Terminal]
+    L[🧠 Ollama Local LLM]
+    S[🔒 Sandbox Executor]
+    K[⚙️ Security Tools]
 
     U -->|"Commands / Prompts"| T
     T -->|"Context + Queries"| L
