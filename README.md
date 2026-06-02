@@ -51,8 +51,8 @@
 ### Instalación rápida
 
 ```bash
-git clone https://github.com/Ruby570bocadito/SPECTER-AI-Powered-Offensive-Security-Terminal.git
-cd SPECTER-AI-Powered-Offensive-Security-Terminal
+git clone https://github.com/Ruby570bocadito/Specter-Terminal.git
+cd Specter-Terminal
 pip install -e ".[dev,ollama,export,workflows]"
 ./run.sh
 ```
