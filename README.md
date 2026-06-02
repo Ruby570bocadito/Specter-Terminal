@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff87,100:00aaff&height=250&section=header&text=Specter-Terminal&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38" alt="Specter-Terminal" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Specter-Terminal&fontSize=60&fontAlignY=35&animation=fadeIn&fontColor=ffffff" alt="header"/>
 </p>
 
 <p align="center">
@@ -20,22 +20,6 @@
   <img src="https://img.shields.io/badge/Sandbox-Secure-AA00FF?style=flat-square&labelColor=0a0a0a" />
   <img src="https://img.shields.io/badge/Platform-Linux_%7C_WSL-FFD700?style=flat-square&labelColor=0a0a0a" />
 </p>
-
----
-
-```ascii
-╔══════════════════════════════════════════════════════════════╗
-║  ███████╗██████╗ ███████╗ ██████╗████████╗███████╗██████╗   ║
-║  ██╔════╝██╔══██╗██╔════╝██╔════╝╚══██╔══╝██╔════╝██╔══██╗  ║
-║  ███████╗██████╔╝█████╗  ██║        ██║   █████╗  ██████╔╝  ║
-║  ╚════██║██╔═══╝ ██╔══╝  ██║        ██║   ██╔══╝  ██╔══██╗  ║
-║  ███████║██║     ███████╗╚██████╗   ██║   ███████╗██║  ██║  ║
-║  ╚══════╝╚═╝     ╚══════╝ ╚═════╝   ╚═╝   ╚══════╝╚═╝  ╚═╝  ║
-║                                                                ║
-║  Offensive AI Security Terminal v3.0                          ║
-║  100% Offline · Air-Gapped · No Telemetry                     ║
-╚══════════════════════════════════════════════════════════════╝
-```
 
 ## ⚡ Architecture
 
@@ -180,7 +164,7 @@ Specter-Terminal is designed for **authorized security professionals only**. Alw
 
 > **Disclaimer:** The authors assume no liability for misuse. You are responsible for complying with all applicable laws.
 
-## 🤝 Contributing
+## 🛠️ Contributing
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you'd like to change.
 
